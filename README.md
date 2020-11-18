@@ -1,3 +1,18 @@
+### NestJS with GraphQL and SpaceX API
+<br/>
+
+This project was created following a [tutorial](https://www.youtube.com/watch?v=q4zlpiGtOxY) by Kelvin Mai. 
+
+The basic idea is to fecth space launch data from the open [API](https://api.spacexdata.com/v3). The query playground can be accessed by typing in: **npm run start** \
+Then accessing: http://localhost:3000/graphql 
+
+### !The code for the queries is not properly functional at the moment. The code does not contain any mutations either!
+There is a bug somewhere in the code that I was not able to find while trying to follow the tutorial. 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
